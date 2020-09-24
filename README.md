@@ -1,5 +1,7 @@
 # Consumir API
 
+Exemplo de como consumir uma API tanto no Frontend quanto no Backend usando NodeJS, Express, Nodemon e Axios.
+
 ## API
 
 Criar uma api
